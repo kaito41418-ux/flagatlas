@@ -6,7 +6,7 @@ Public privacy policies and deletion-request pages for Flag Atlas, developed by 
 - [Privacy policy (English)](https://kaito41418-ux.github.io/flagatlas/privacy/en/)
 - [Account and data deletion](https://kaito41418-ux.github.io/flagatlas/delete-account/)
 
-The policy currently covers the offline app (web 2026-10-21.30 / Android 1.9.0). Accounts, cloud sync and analytics are not enabled. Update the policy before enabling those features.
+The policy currently covers the offline app (web 2026-10-21.31 / Android 1.9.1). Accounts, cloud sync and analytics are not enabled. Update the policy before enabling those features.
 
 Deletion requests currently use email and manual processing; the pages also explain local-data removal.
 
