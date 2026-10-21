@@ -1,7 +1,13 @@
-# Flag Atlas support
+# Flag Atlas privacy and support
 
-Public deletion-request entry for Flag Atlas, developed by Melencolia.
+Public privacy policies and deletion-request pages for Flag Atlas, developed by Melencolia.
 
-This repository contains support pages only. App source and unpublished policy drafts are not included.
+- [Privacy policy (Traditional Chinese)](https://kaito41418-ux.github.io/flagatlas/privacy/)
+- [Privacy policy (English)](https://kaito41418-ux.github.io/flagatlas/privacy/en/)
+- [Account and data deletion](https://kaito41418-ux.github.io/flagatlas/delete-account/)
 
-Current route: email request and local-data removal instructions. Cloud self-service deletion is not connected.
+The policy currently covers the offline app (web 2026-10-21.30 / Android 1.9.0). Accounts, cloud sync and analytics are not enabled. Update the policy before enabling those features.
+
+Deletion requests currently use email and manual processing; the pages also explain local-data removal.
+
+This repository contains public static pages only. Application source and future cloud-policy drafts are not included.
